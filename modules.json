@@ -1,0 +1,122 @@
+[
+  {
+    "module_code": "sp1_6",
+    "module_label": "SP1.6 - Climate Data Integration",
+    "module_title": "Climate Data Integration",
+    "module_slug": "climate_data_integration",
+    "app_code": "sp1",
+    "app_label": "SP1 - Agriculture & Natural Resources",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp1/sp1.1.md"
+  },
+  {
+    "module_code": "sp1_9",
+    "module_label": "SP1.9 - Commodity Pricing",
+    "module_title": "Commodity Pricing",
+    "module_slug": "commodity_pricing",
+    "app_code": "sp1",
+    "app_label": "SP1 - Agriculture & Natural Resources",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp1/sp1.1.md"
+  },
+  {
+    "module_code": "sp1_1",
+    "module_label": "SP1.1 - Crop Planning",
+    "module_title": "Crop Planning",
+    "module_slug": "crop_planning",
+    "app_code": "sp1",
+    "app_label": "SP1 - Agriculture & Natural Resources",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp1/sp1.1.md"
+  },
+  {
+    "module_code": "sp1_11",
+    "module_label": "SP1.11 - Environmental Compliance",
+    "module_title": "Environmental Compliance",
+    "module_slug": "environmental_compliance",
+    "app_code": "sp1",
+    "app_label": "SP1 - Agriculture & Natural Resources",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp1/sp1.1.md"
+  },
+  {
+    "module_code": "sp1_12",
+    "module_label": "SP1.12 - Equipment Field Monitoring",
+    "module_title": "Equipment Field Monitoring",
+    "module_slug": "equipment_field_monitoring",
+    "app_code": "sp1",
+    "app_label": "SP1 - Agriculture & Natural Resources",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp1/sp1.1.md"
+  },
+  {
+    "module_code": "sp1_7",
+    "module_label": "SP1.7 - Fertilizer & Input Tracking",
+    "module_title": "Fertilizer & Input Tracking",
+    "module_slug": "fertilizer_and_input_tracking",
+    "app_code": "sp1",
+    "app_label": "SP1 - Agriculture & Natural Resources",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp1/sp1.1.md"
+  },
+  {
+    "module_code": "sp1_8",
+    "module_label": "SP1.8 - Harvest Scheduling",
+    "module_title": "Harvest Scheduling",
+    "module_slug": "harvest_scheduling",
+    "app_code": "sp1",
+    "app_label": "SP1 - Agriculture & Natural Resources",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp1/sp1.1.md"
+  },
+  {
+    "module_code": "sp1_5",
+    "module_label": "SP1.5 - Irrigation Management",
+    "module_title": "Irrigation Management",
+    "module_slug": "irrigation_management",
+    "app_code": "sp1",
+    "app_label": "SP1 - Agriculture & Natural Resources",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp1/sp1.1.md"
+  },
+  {
+    "module_code": "sp1_4",
+    "module_label": "SP1.4 - Land Mapping",
+    "module_title": "Land Mapping",
+    "module_slug": "land_mapping",
+    "app_code": "sp1",
+    "app_label": "SP1 - Agriculture & Natural Resources",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp1/sp1.1.md"
+  },
+  {
+    "module_code": "sp1_3",
+    "module_label": "SP1.3 - Livestock Tracking",
+    "module_title": "Livestock Tracking",
+    "module_slug": "livestock_tracking",
+    "app_code": "sp1",
+    "app_label": "SP1 - Agriculture & Natural Resources",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp1/sp1.1.md"
+  },
+  {
+    "module_code": "sp1_10",
+    "module_label": "SP1.10 - Resource Extraction Tracking",
+    "module_title": "Resource Extraction Tracking",
+    "module_slug": "resource_extraction_tracking",
+    "app_code": "sp1",
+    "app_label": "SP1 - Agriculture & Natural Resources",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp1/sp1.1.md"
+  },
+  {
+    "module_code": "sp1_2",
+    "module_label": "SP1.2 - Yield Monitoring",
+    "module_title": "Yield Monitoring",
+    "module_slug": "yield_monitoring",
+    "app_code": "sp1",
+    "app_label": "SP1 - Agriculture & Natural Resources",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp1/sp1.1.md"
+  }
+]
